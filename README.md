@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Traveling Sales Man Problem**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Genetic Algorithm, Reactjs, Nextjs**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Codimate/Codimate/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)**
 
